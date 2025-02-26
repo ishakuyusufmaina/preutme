@@ -3,6 +3,7 @@
   "units": {
     "intro":"What is cell",
     "structure": "structure of cell",
+    "type": "type of cell",
     "animal": "animal cell",
     "plant": "plant cell"
   }

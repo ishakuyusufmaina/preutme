@@ -1,7 +1,6 @@
 {
-  "subjects": [
-    "English",
-    "Biology",
-    "Chemistry",
-    "Physics"]
+   "english": "English",
+   "biology": "Biology",
+   "chemistry": "Chemistry",
+   "physics": "Physics"
 }
